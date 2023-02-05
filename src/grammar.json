@@ -511,6 +511,10 @@
       "type": "PATTERN",
       "value": "preserve|PRESERVE"
     },
+    "keyword_merge": {
+      "type": "PATTERN",
+      "value": "merge|MERGE"
+    },
     "is_not": {
       "type": "PREC_LEFT",
       "value": 0,
