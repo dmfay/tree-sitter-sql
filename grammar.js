@@ -245,6 +245,7 @@ module.exports = grammar({
       ),
     ),
 
+    keyword_point: _ => make_keyword("point"),
     keyword_geometry: _ => make_keyword("geometry"),
     keyword_geography: _ => make_keyword("geography"),
     keyword_box2d: _ => make_keyword("box2d"),

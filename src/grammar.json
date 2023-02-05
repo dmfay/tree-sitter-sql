@@ -1074,6 +1074,10 @@
         }
       ]
     },
+    "keyword_point": {
+      "type": "PATTERN",
+      "value": "point|POINT"
+    },
     "keyword_geometry": {
       "type": "PATTERN",
       "value": "geometry|GEOMETRY"
